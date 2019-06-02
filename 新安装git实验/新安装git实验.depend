@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1385316878 source:d:\cccccc\新安装git实验\main.c
+	<stdio.h>
+	<stdlib.h>
+
